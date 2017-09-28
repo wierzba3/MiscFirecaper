@@ -14,3 +14,5 @@ v2:
 	https://www.youtube.com/watch?v=Hdyo-6fmilY
 	
 Over 2000 licenses purchased.
+
+Forgive poor programming practices. This is one of my first ever programing projects (2012) :)
